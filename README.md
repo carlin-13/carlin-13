@@ -28,13 +28,13 @@ Além da análise de dados, possuo experiência em **C e C++**, tendo desenvolvi
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
   <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="R" title="R Language" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  <img alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img alt="C" title="C" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="C++" title="C++" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Excel" title="Excel" width="40px" style="padding-right: 10px;" src="https://custom-icon-badges.demolab.com/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" />
+  <img alt="Excel" title="Excel" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft-excel/microsoft-excel-original.svg" />
 </p>
 
 <br/>
@@ -62,6 +62,4 @@ Além da análise de dados, possuo experiência em **C e C++**, tendo desenvolvi
       align="left" 
       alt="Top Langs" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin-13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+      src="
