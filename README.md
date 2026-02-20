@@ -30,7 +30,7 @@ Além da análise de dados, possuo experiência em **C e C++**, tendo desenvolvi
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40" style="padding-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="SQL" width="40" height="40" style="padding-right: 10px;" />
+  <img src="https://www.flaticon.com/free-icon/database_16781152" alt="SQL" width="40" height="40" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="padding-right: 10px;" />
