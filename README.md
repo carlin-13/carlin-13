@@ -4,7 +4,7 @@
 
 Sou estudante de Estatística na Universidade Federal de Uberlândia (UFU). Minha trajetória une o rigor da análise estatística com a lógica de programação. Atualmente, foco em transformar dados em inteligência de negócio através de modelagem e automação.
 
-Além da análise de dados, possuo experiência em **C e C++**, tendo desenvolvido sistemas lógicos como ferramentas de gerenciamento de lanchonetes e sistemas de resgate.
+Além da análise de dados, possuo experiência nas linguagens **C e C++**, tendo desenvolvido sistemas lógicos como ferramentas de gerenciamento de lanchonetes e sistemas de resgate.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/carlosccanto">
