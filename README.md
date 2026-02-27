@@ -39,7 +39,7 @@ Além da análise de dados, possuo experiência nas linguagens **C e C++**, tend
 ### 🚀 Principais Projetos
 
 * **NBA Data Analysis:** Análise estatística detalhada da carreira de Kyrie Irving utilizando Python e visualização de dados.
-* **Sistemas em C/C++:** Desenvolvimento de sistemas funcionais, incluindo gerenciamento de lanchonetes e algoritmos para sistemas de resgate.
+* **Sistemas em C/C++:** Desenvolvimento de sistemas funcionais , incluindo gerenciamento de lanchonetes e algoritmos para sistemas de resgate.
 * **Web Scraping:** Automação de coleta de dados utilizando Python com Selenium e BeautifulSoup.
 
 ---
