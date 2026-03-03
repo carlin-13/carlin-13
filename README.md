@@ -2,7 +2,7 @@
 
 **`Graduando em Ciência de Dados e Estatística na UFU | Analista de Dados`**
 
-Sou graduando de Ciência de Dados e Estatística na Universidade Federal de Uberlândia (UFU). Minha trajetória une o rigor da análise estatística com a lógica de programação. Atualmente, foco em transformar dados em inteligência de negócio através de modelagem e automação.
+Sou graduando de Ciência de Dados e Estatística na Universidade Federal de Uberlândia (UFU). Minha trajetória une rigor da análise estatística com a lógica de programação. Atualmente, foco em transformar dados em inteligência de negócio através de modelagem e automação.
 
 Além da análise de dados, possuo experiência nas linguagens **C e C++**, tendo desenvolvido sistemas lógicos como ferramentas de gerenciamento de lanchonetes e sistemas de resgate. 
 
