@@ -36,7 +36,7 @@ Utilizo dados para contar histórias e lógica de programação para resolver pr
 **Visualização:** [Acesse o Dashboard Aqui](LINK_DO_SEU_DASHBOARD)
 
 [![NBA Preview](images/nba_mockup.png)](LINK_DO_REPOSITORIO)
-*(Crie este mockup no Figma mostrando o dashboard do Kyrie)*
+
 
 ---
 
@@ -45,7 +45,7 @@ Utilizo dados para contar histórias e lógica de programação para resolver pr
 **A Solução:** Sistema desenvolvido em C/C++ focado em modularização e estruturação de dados (structs). Permite a gestão completa do ciclo de pedidos de um estabelecimento, garantindo integridade dos dados e agilidade no terminal.
 
 [![Lanchonete Preview](images/lanchonete_mockup.png)](LINK_DO_REPOSITORIO)
-*(No Figma, coloque um print do seu terminal C++ dentro de um frame moderno)*
+
 
 ---
 
