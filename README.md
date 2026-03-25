@@ -1,4 +1,4 @@
-#📊 Carlos Arthur Canto
+# 📊 Carlos Arthur Carvalho Canto
 **`Graduando em Ciência de Dados e Estatística na UFU | Analista de Dados`**
 
 Sou graduando de Ciência de Dados e Estatística na Universidade Federal de Uberlândia (UFU). Minha trajetória une o rigor da análise estatística com a lógica de programação. Atualmente, foco em transformar dados em inteligência de negócio através de modelagem e automação.
@@ -17,43 +17,33 @@ Sou graduando de Ciência de Dados e Estatística na Universidade Federal de Ube
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right: 10px;" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="padding-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="padding-right: 10px;" />
 </p>
 
 ---
 
 ### 🚀 Principais Projetos (Data Science & Software)
 
-Utilizo dados para contar histórias e lógica de programação para resolver problemas estruturais. Abaixo, alguns destaques:
+Utilizo dados para contar histórias e lógica de programação para resolver problemas estruturais.
 
-### 🏀 NBA Data Analysis: Performance de Kyrie Irving
-**O Problema:** Como lesões de longa duração afetam a eficiência de arremesso e o impacto real em quadra de jogadores de elite?.
-**A Solução:** Desenvolvimento de uma análise estatística detalhada utilizando Python para processamento de dados e visualização interativa. O projeto explora métricas avançadas para entender o ROI de performance do atleta.
-**Visualização:** [Acesse o Dashboard Aqui](LINK_DO_SEU_DASHBOARD)
+#### 🏀 NBA Data Analysis: Performance de Kyrie Irving
+**O Problema:** Como lesões de longa duração afetam a eficiência de arremesso e o impacto real em quadra?
+**A Solução:** Análise estatística detalhada utilizando Python e métricas avançadas para entender o ROI de performance do atleta.
+👉 [Ver Repositório](https://github.com/carlin-13/NBA-Kyrie-Analysis)
 
-[![NBA Preview](images/nba_mockup.png)](LINK_DO_REPOSITORIO)
+#### 🍔 Sistema de Gestão de Lanchonete
+**O Problema:** Necessidade de um fluxo lógico para controle de pedidos e faturamento.
+**A Solução:** Sistema desenvolvido em C focado em modularização e structs para garantir integridade dos dados.
+👉 [Ver Repositório](https://github.com/carlin-13/Gestao-Lanchonete)
 
-
----
-
-### 🍔 Sistema de Gestão de Lanchonete
-**O Problema:** Necessidade de um fluxo lógico e eficiente para controle de pedidos, faturamento e estoque em um ambiente modular.
-**A Solução:** Sistema desenvolvido em C/C++ focado em modularização e estruturação de dados (structs). Permite a gestão completa do ciclo de pedidos de um estabelecimento, garantindo integridade dos dados e agilidade no terminal.
-
-[![Lanchonete Preview](images/lanchonete_mockup.png)](LINK_DO_REPOSITORIO)
-
-
----
-
-### 🚁 Sistema de Gestão de Missões e Resgate
-**O Problema:** Como organizar e atribuir missões críticas de forma lógica, simulando sistemas de resgate reais?.
-**A Solução:** Algoritmo modular em C focado em gerenciamento de missões. O sistema utiliza lógica de programação estruturada para monitorar o status e o sucesso de tarefas complexas.
-
-[![Resgate Preview](images/resgate_mockup.png)](LINK_DO_REPOSITORIO)
+#### 🚁 Sistema de Missões e Resgate
+**O Problema:** Organização de missões críticas de forma lógica e escalável.
+**A Solução:** Algoritmo modular em C para monitoramento de status e sucesso de tarefas complexas.
+👉 [Ver Repositório](https://github.com/carlin-13/Sistema-Resgate)
 
 ---
 
@@ -61,9 +51,10 @@ Utilizo dados para contar histórias e lógica de programação para resolver pr
 
 <p align="left">
   <img align="left" alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=carlin-13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin-13&layout=compact&theme=tokyonight&hide=html,css" />
+  <img align="left" alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin-13&layout=compact&theme=tokyonight&hide=html,css&langs_count=5&exclude_repo=NOME_DE_REPO_ANTIGO" />
 </p>
 
-<br><br><br>
+<br><br><br><br><br><br><br>
+
 ---
-*“Os dados são aquilo que alimentam as transformações no mundo”*
+*“Os dados são aquilo que alimentam as transformações no mundo”* — **John Tukey** (adaptado)
