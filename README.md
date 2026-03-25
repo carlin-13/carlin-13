@@ -66,4 +66,4 @@ Utilizo dados para contar histórias e lógica de programação para resolver pr
 
 <br><br><br>
 ---
-*“Transformando dados em decisões e código em soluções.”*
+*“Os dados são aquilo que alimentam as transformações no mundo”*
