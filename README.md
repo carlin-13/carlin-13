@@ -44,8 +44,6 @@ Gosto de transformar bases de dados complexas em informações visuais claras pa
 
 ## 📊 GitHub Stats
 
-> **Aviso:** Substitua `SEU_USUARIO` pelo seu @ real do GitHub nos links abaixo para os gráficos funcionarem corretamente!
-
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlin-13&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlin-13&layout=compact&theme=tokyonight" />
