@@ -1,48 +1,44 @@
-# Olá 😁, Carlos Canto aqui 👋
+# Olá! 👋 Sou o Carlos Canto
 
-🚀 **Análise de Dados & Estatística | Rstudio & Power BI** 🇧🇷 Brasil
+**Ciência de Dados e Estatística | Brasil 🇧🇷**
 
-Sou estudante de Ciência de Dados e Estatística, atuando na área de Inteligência Comercial mais precisamente em Pricing. Tenho forte foco em **análise estatística, precificação de mercado (indicadores e commodities)** e **desenvolvimento de soluções voltadas para o negócio**.
+Este espaço é basicamente o meu "caderno digital". Sou estudante de Ciência de Dados e Estatística na UFU e atualmente trabalho na área de Inteligência Comercial, mais especificamente com Pricing. 
 
-Gosto de transformar bases de dados complexas em informações visuais claras para tomadas de decisão, unindo o rigor técnico da estatística com a visão prática de inteligência de mercado.
-
----
-
-## 🧠 O que eu faço
-
--   📊 **Análise de Dados e Estatística Aplicada**
--   📈 **Dashboards e Relatórios de Negócios** (Visualização de dados)
--   💰 **Inteligência de Mercado e Precificação** (Análise de indicadores)
--   🏀 **Sports Analytics** (Análise de desempenho esportivo)
--   🧩 **Estruturação e Processamento de Dados** (Web scraping e tratamento)
--   📉 **Modelagem de Relatórios Técnicos**
+Criei esse GitHub para organizar meus scripts, trabalhos da faculdade e alguns projetos pessoais que vou desenvolvendo para aprender. Não é um portfólio super elaborado, mas reflete o que eu ando estudando, testando e automatizando no meu dia a dia. Fique à vontade para dar uma olhada!
 
 ---
 
-## 📂 Projetos em Destaque
+## 🧠 O que você vai encontrar por aqui
 
-* 🏀 **Kyrie Irving - Ankletaker (Power BI):** Desenvolvimento de um dashboard interativo focado em *Sports Analytics*, analisando a correlação entre a eficiência (KPIs como FG% e PTS) e o volume de lesões do jogador.
-* 🚁 **Sistema de Gerenciamento de Missões de Resgate (C):** Projeto em C utilizando conceitos de programação modular para criar um sistema de gerenciamento lógico.
-* ⛽ **Análise de Indicadores de Combustíveis (Python & R):** Criação de fluxos para extração de dados da web (como tabelas de PPI e referências ESALQ) via Python, com tratamento e geração de relatórios de monitoramento utilizando o ecossistema Tidyverse no R além de mapas com a biblioteca GeoBR.
+-   📊 **Estatística Aplicada:** Códigos de estudos e exercícios práticos.
+-   📈 **Visualização de Dados:** Alguns testes e dashboards criados no Power BI e Excel.
+-   🧩 **Automação e Tratamento:** Scripts (geralmente em Python ou R) para extrair dados da web (scraping) e organizar tabelas, o que facilita minha rotina de trabalho.
+-   🏀 **Sports Analytics:** Algumas brincadeiras analisando dados de esportes nas horas vagas.
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Alguns projetos guardados aqui
 
-### Linguagens e Ferramentas de Dados
+* 🏀 **Kyrie Irving - Ankletaker (Power BI):** Um painel interativo que montei para analisar a relação entre o volume de lesões e a eficiência (KPIs como FG% e PTS) do jogador.
+* ⛽ **Análise de Indicadores de Combustíveis (Python & R):** Fluxos que criei para puxar dados da web (como tabelas de PPI e ESALQ) via Python, fazendo o tratamento e a geração de relatórios com o Tidyverse no R, incluindo alguns mapas com o GeoBR.
+* 🚁 **Sistema de Gerenciamento de Missões (C):** Um trabalho de faculdade focado em programação modular para criar um sistema lógico em C.
 
+---
+
+## 🛠️ Ferramentas que mais uso
+
+### Linguagens e Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Visualização e Business Intelligence
-
+### Visualização e BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Meus status no GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlin-13&show_icons=true&theme=tokyonight&count_private=true" />
@@ -51,12 +47,4 @@ Gosto de transformar bases de dados complexas em informações visuais claras pa
 
 ---
 
-## 🚀 Filosofia
-
-> *"Dados não são apenas números soltos em uma planilha.  
-> Eles são a matéria-prima para descobrir padrões, aplicar o rigor estatístico e gerar valor real nas tomadas de decisão."*
-
----
-
-⭐ Se você gostou do meu trabalho, considere deixar uma estrela nos repositórios!  
-🤝 Sempre aberto a trocar ideias sobre estatística, análise de dados e esportes.
+🤝 Sempre aberto a trocar uma ideia sobre estatística, análise de dados ou esportes. Se algo por aqui for útil para você, fico feliz!
