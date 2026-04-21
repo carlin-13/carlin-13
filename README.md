@@ -1,8 +1,8 @@
 # Olá 😁, Carlos Canto aqui 👋
 
-🚀 **Análise de Dados & Estatística | Rstudio & Power BI** 🇧🇷 Brasil
+🚀 **Análise de Dados & Estatística ** 🇧🇷 Brasil
 
-Sou estudante de Ciência de Dados e Estatística, atuando na área de Inteligência Comercial mais precisamente em Pricing. Tenho forte foco em **análise estatística, precificação de mercado (indicadores e commodities)** e **desenvolvimento de soluções voltadas para o negócio**.
+Sou graduando de Ciência de Dados e Estatística, atuando na área de Inteligência Comercial mais precisamente em Pricing. Tenho forte foco em **análise estatística, precificação de mercado (indicadores e commodities)** e **desenvolvimento de soluções voltadas para o negócio**.
 
 Gosto de transformar bases de dados complexas em informações visuais claras para tomadas de decisão, unindo o rigor técnico da estatística com a visão prática de inteligência de mercado.
 
