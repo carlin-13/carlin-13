@@ -50,13 +50,3 @@ Gosto de transformar bases de dados complexas em informações visuais claras pa
 </p>
 
 ---
-
-## 🚀 Filosofia
-
-> *"Dados não são apenas números soltos em uma planilha.  
-> Eles são a matéria-prima para descobrir padrões, aplicar o rigor estatístico e gerar valor real nas tomadas de decisão."*
-
----
-
-⭐ Se você gostou do meu trabalho, considere deixar uma estrela nos repositórios!  
-🤝 Sempre aberto a trocar ideias sobre estatística, análise de dados e esportes.
