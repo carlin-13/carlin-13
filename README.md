@@ -27,7 +27,7 @@ Gosto de transformar bases de dados complexas em informações visuais claras pa
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Ferramentas que uso
 
 ### Linguagens e Ferramentas de Dados
 
